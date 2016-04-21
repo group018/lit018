@@ -3,10 +3,14 @@ LIST OF MEMBERS FOR TEAM 018
 Samuel Wilson
  
 <<<<<<< HEAD
+<<<<<<< HEAD
 Llewellyn Richards is 21 
 =======
 Llewellyn Richards not 21
 >>>>>>> origin/master
+=======
+Llewellyn Richards
+>>>>>>> parent of f845197... 21
  
 George Delkousis
  
